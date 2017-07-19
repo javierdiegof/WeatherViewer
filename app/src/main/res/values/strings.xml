@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">WeatherViewer</string>
     <string name="action_settings">Settings</string>
+    <string name="api_key">587528294fe71bde58b2e35ec692940f</string>
+    <string name="web_service_url">http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
+    <string name="invalid_url">URL no válido</string>
+    <string name="weather_condition_image">Una representación gráfica de las condiciones climáticas</string>
+    <string name="high_temp">Máxima: %s</string>
+    <string name="low_temp">Mínima: %s</string>
+    <string name="day_description">%1$s: %2$s</string>
+    <string name="humidity">Humedad: %s</string>
+    <string name="hint_text">Introduzca ciudad (p.e, Mexico, MX)</string>
+    <string name="read_error">No se pudo leer información del clima</string>
+    <string name="connect_error">No se pudo conectar con OpenWeatherMap.org</string>
 </resources>
